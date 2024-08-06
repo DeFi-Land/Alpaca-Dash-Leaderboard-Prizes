@@ -1,5 +1,3 @@
-# Alpaca-Dash-Leaderboard-Prizes
-
 # Alpaca Dash Leaderboard Rewards Distribution
 
 ## Introduction

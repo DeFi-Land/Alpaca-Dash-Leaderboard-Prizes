@@ -48,7 +48,7 @@ Top 10 players received the highest rewards, with the remaining rewards distribu
 | ca03414e-498a-4f2c-9c16-2b7d3f75f337    | Almighty Alpaca #615  | 136   | $50   |
 | fefdc556-4ec1-422d-9828-eac6d4233954    | Almighty Alpaca #1004 | 119   | $50   |
 
-### Most Active Alpacas
+### Most Active Players by Alpaca
 
 | AlpacaId                                | Name                  | Value | Prize |
 |-----------------------------------------|-----------------------|-------|-------|
@@ -58,7 +58,7 @@ Top 10 players received the highest rewards, with the remaining rewards distribu
 | 0b93fd8e-0c78-41e2-8a46-dfbedb31d8a5    | Almighty Alpaca #99   | 50    | $150  |
 | 41bbe557-43dd-459e-8187-4f44e62e9d25    | Almighty Alpaca #373  | 48    | $150  |
 
-### Highest Win Streaks
+### Highest Win Streaks Players by Alpaca
 
 | AlpacaId                                | Name                  | Value | Prize |
 |-----------------------------------------|-----------------------|-------|-------|
